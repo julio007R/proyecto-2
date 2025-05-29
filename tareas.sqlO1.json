@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "titulo": "Estudiar variables de entorno",
+        "descripcion": "Leer documentaci\u00f3n sobre configuraci\u00f3n de entorno en sistemas operativos.",
+        "estado": "pendiente"
+    },
+    {
+        "id": 1748560188,
+        "titulo": "Exposicion",
+        "descripcion": "Exponer en la exposiicon",
+        "estado": "en progreso"
+    },
+    {
+        "id": 1748560231,
+        "titulo": "Espa\u00f1ol",
+        "descripcion": "Espa\u00f1ol",
+        "estado": "en progreso"
+    },
+    {
+        "id": 1748560309,
+        "titulo": "Matematicas Act1",
+        "descripcion": "Act1",
+        "estado": "completada"
+    },
+    {
+        "id": 1748560404,
+        "titulo": "codifica sofware de sistemas informaticos",
+        "descripcion": "crear un codigo funcional como calculadora",
+        "estado": "completada"
+    }
+]
